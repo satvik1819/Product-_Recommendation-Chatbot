@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+DATA/
+artifacts/
+
+*.npy
+*.bin
+*.csv
+
+venv/
+.env
